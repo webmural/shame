@@ -11,6 +11,7 @@
     color: whitesmoke;
   }
 
+  .swatch .sh,
   #swatch:target ~ * .sh {
     color: transparent !important;
   }
