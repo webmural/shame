@@ -55,6 +55,7 @@
 }
 
 :root {
+  --tape-white: #cdcdcd;
   font-family: sans-serif;
   font-size: calc(1em + 2vmin);
 }
@@ -96,6 +97,7 @@ body {
 }
 
 .about {
+  order: 0;
   width: 100%;
   display: flex;
   flex-flow: column;
